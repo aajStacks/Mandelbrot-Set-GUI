@@ -2,17 +2,17 @@
 </head>
 <body>
 <div id="header">
-<h1 class="title">103 Project 8: Mandelbrot Set</h1>
+<h1 class="title">Mandelbrot Set</h1>
 </div>
 
 <!---{{ Synopsis-->
 <h2 id="synopsis">Synopsis</h2>
-<p>In this project, you will implement a simple program to plot the famous <a href="http://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot set</a>. It doesn’t have much mathematical significance that I know of, but it does make pretty pictures. It also makes for good programming practice.</p>
-<p>Here are a few things you’ll get out of this project:</p>
+<p>In this project, we will implement a simple program to plot the famous <a href="http://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot set</a>. It doesn’t have much mathematical significance that I know of, but it does make pretty pictures. It also makes for good programming practice.</p>
+<p>Here are a few things we’ll get out of this project:</p>
 <ul>
 <li>A very brief introduction to GUI programming;</li>
-<li>More about classes and a very brief introduction to object oriented programming;</li>
-<li>Refinement of your overall coding skill.</li>
+<li>More about classes and a very brief introduction to OOP;</li>
+<li>Refinement of my overall coding skill.</li>
 <li>Fun (???)</li>
 </ul>
 <div class="figure">
